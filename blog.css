@@ -5,7 +5,7 @@ body{
 }
 .pra{
     text-align: left;
-    line-height: 0.5em;
+    line-height: 0.7em;
 }
 @media screen and (min-width:768px){
     body{
@@ -157,6 +157,7 @@ a:hover{
 .list-style{
     margin: 20px;
     list-style: decimal;
+    line-height: 0.7em;
 }
 .block{
     float: left;
